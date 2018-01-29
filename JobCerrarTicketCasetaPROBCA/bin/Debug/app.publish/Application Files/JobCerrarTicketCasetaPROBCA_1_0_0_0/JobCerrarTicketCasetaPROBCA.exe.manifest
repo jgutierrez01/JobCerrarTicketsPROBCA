@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="JobCerrarTicketCasetaPROBCA.exe" version="1.0.0.0" publicKeyToken="b7fc2861e9e11b4a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="JobCerrarTicketCasetaPROBCA" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="JobCerrarTicketCasetaPROBCA.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="JobCerrarTicketCasetaPROBCA.exe" size="8176">
+      <assemblyIdentity name="JobCerrarTicketCasetaPROBCA" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gbp6aLbeGYGR+pbkGsx1z1Dog0vJIyyRZQzytSW0hGk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="JobCerrarTicketCasetaPROBCA.exe.config" size="892">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>UCQpuqkARYkPStJLV5V5hipWiPSAQ5eKYPydMsHk87U=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-ERP53TE\Maftec09" issuerKeyHash="40ec8803471a62ad461703e1f23c8ff44e8ce5c5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>E4zxD30KpSsZV7W+cXFOzhxileXxGa0X/1+FxNxKhFI=</DigestValue></Reference></SignedInfo><SignatureValue>tJNXPb6S7Du1Ab2Mh4z03M9Ke8Cxigxgy05dsKvCTfC4kma6g9Q016QzPaIUbRaaE1q+Lt2QubY23V35zVtG+pc4bvZ3w9+0Xlq3BFS9oWxAnCwweAAe/rYiQ2r3X+aviJj0fTxTIbNcSqtkaS27G2ymXRBXg4KwFM2cp8Z0DlQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0VUnAC1yGiQYyHmi/ynxGWFzQa6shHEOLNgIUtt3e1vIeFgxFdt9XcXshPfTRY4QHaJIjAf41eg/yYp6obVLugSsn/SKT8tg4aZun44yEsioUOFh9I9skZ9dzqMUdJ+NCNdusm117zGAZGiWGfKESKbgN+4zyKlVvhljeQpceJE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="52844adcc4855fff17ad19f1e595621cce4e7171beb557192ba50a7d0ff18c13" Description="" Url=""><as:assemblyIdentity name="JobCerrarTicketCasetaPROBCA.exe" version="1.0.0.0" publicKeyToken="b7fc2861e9e11b4a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-ERP53TE\Maftec09</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>133hVAYz/c6KPp/QVy/4x9CN2YAH8RF7ixUDUQKASks=</DigestValue></Reference></SignedInfo><SignatureValue>YgXDnUtFjy3tPeMIouWEBV0sGZHpw1Z4mPIlua+cGuSpVUjBDa5a189jPtF03wTfE1E54+tbYIQ0I819oNCLgKdI8QsAGr4HmowqcbJqylWvGo2GGUAgSKk8KHAaUMhLCOSJax64b/4tQkPjZl9RuYGzhgr2D6HeuxMQkw82YGo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0VUnAC1yGiQYyHmi/ynxGWFzQa6shHEOLNgIUtt3e1vIeFgxFdt9XcXshPfTRY4QHaJIjAf41eg/yYp6obVLugSsn/SKT8tg4aZun44yEsioUOFh9I9skZ9dzqMUdJ+NCNdusm117zGAZGiWGfKESKbgN+4zyKlVvhljeQpceJE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQQLcFvBXaf5BKsuhHJ5qGujANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAEUAUgBQADUAMwBUAEUAXABNAGEAZgB0AGUAYwAwADkwHhcNMTcxMTAxMjEzMjUxWhcNMTgxMTAyMDMzMjUxWjA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtAEUAUgBQADUAMwBUAEUAXABNAGEAZgB0AGUAYwAwADkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANFVJwAtchokGMh5ov8p8Rlhc0GurIRxDizYCFLbd3tbyHhYMRXbfV3F7IT300WOEB2iSIwH+NXoP8mKeqG1S7oErJ/0ik/LYOGmbp+OMhLIqFDhYfSPbJGfXc6jFHSfjQjXbrJtde8xgGRolhnyhEim4DfuM8ipVb4ZY3kKXHiRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAEutebbsRB/dctdDLVpBMkYh1tHrXoDAf6M9/Gf0Xyvr4pjE/qbPzYEbZXtjJwJ+Yu06tdVY+RIVCGwMMSAkIzkg4JR1LRQmH0ZeczT799OLksPQUCG149GOIClt00mS/SBdlyVvPMxnmvc2isAFKKBue5rt60jXluxOe30w+bIo=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

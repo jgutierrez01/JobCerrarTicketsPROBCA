@@ -1,0 +1,10 @@
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\bin\Release\JobCerrarTicketCasetaPROBCA.exe.config
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\bin\Release\JobCerrarTicketCasetaPROBCA.exe.manifest
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\bin\Release\JobCerrarTicketCasetaPROBCA.application
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\bin\Release\JobCerrarTicketCasetaPROBCA.exe
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\bin\Release\JobCerrarTicketCasetaPROBCA.pdb
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\obj\Release\JobCerrarTicketCasetaPROBCA.csprojResolveAssemblyReference.cache
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\obj\Release\JobCerrarTicketCasetaPROBCA.exe.manifest
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\obj\Release\JobCerrarTicketCasetaPROBCA.application
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\obj\Release\JobCerrarTicketCasetaPROBCA.exe
+c:\users\maftec09\documents\visual studio 2015\Projects\JobCerrarTicketCasetaPROBCA\JobCerrarTicketCasetaPROBCA\obj\Release\JobCerrarTicketCasetaPROBCA.pdb
